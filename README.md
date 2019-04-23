@@ -31,14 +31,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+Document object model. It is an API between web scripting languages and the browser. It consists of various nodes which represent the web page and they can be edited to make changes on the web page 
 2. What is an event?
-
+Changes or actions on the web document. Javascript has a pre-defined set of events and they can be used to trigger specific responses or be recorded for analytics
 3. What is an event listener?
-
+Event listeners execute a callback function when a particular event such as a click is detected. Event listners can be used to trigger specific UX behaviors
 4. Why would we convert a NodeList into an Array?
-
+Apart from the forEach method, other array methods such as map cannot be applied to Nodelist but they can be if the Nodelist is converted into an array
 5. What is a component?
+
 
 ### Git Set up
 
